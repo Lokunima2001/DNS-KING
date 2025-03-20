@@ -96,22 +96,22 @@ let up = `*╭──────────────●●►*
 
 > *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Kᴇʀᴍ_ᴍᴅ-ᴠ1❁*
 
-*https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45*
+*https://whatsapp.com/channel/0029Vb4jnKF0Qeaozdvx2J3s*
 
 > *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Kᴇʀᴍ_ᴍᴅ-ᴠ1❁*
 
-*https://youtube.com/@KermHackTools-s9s*
+*https://www.youtube.com/@RTD_FAMILY*
 
 *╭⊱✫🐲 KERM-MD-V1 🐲✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *KERM-MD-V1*
+*│✫➠ - 📂REPOSITORY NAME:* *DNS KING*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *KG TECH🇨🇲*
-*│✫➠ - 🌐URL:* *https://github.com/Kgtech-cmr/KERM-MD-V1*
+*│✫➠ - 🛡️OWNER:* *RTD NIMAH*
+*│✫➠ - 🌐URL:* *https://github.com/Lokunima2001/DNS-KING*
 
-*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
+*♻️YOUR RTD NIMA-MD BOT ACTIVE NOW ENJOY♻️*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/j9wH2hpj/lordkerm.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/3hrstp.jpg` }, caption: up })
 
 }
 })

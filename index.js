@@ -61,7 +61,7 @@ const port = process.env.PORT || 9090;
 
 
 async function connectToWA() {
-console.log("CONNECTING KERM_MD-V1🧬...");
+console.log("CONNECTING RTD NIMA_MD-V1🚀...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -81,32 +81,32 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('♻️ INSTALLING PLUGINS FILES PLEASE WAIT... 🪄')
+console.log('♻️ INSTALLING RTD PLUGINS FILES PLEASE WAIT... 🚀')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('KERM_MD-V1 CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('RTD PLUGINS FILES INSTALL SUCCESSFULLY ✅')
+console.log('RTD NIMA_MD-V1 CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> *➺Kᴇʀᴍ_ᴍᴅ-ᴠ1 ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋɢ ᴛᴇᴄʜ✅*
+> *♻️𝚁𝚃𝙳 𝙽𝙸𝙼𝙰-𝙼𝙳 1𝚅 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝚈 𝚃𝚈𝙿𝙴.𝙼𝙴𝙽𝚄 𝚃𝚄 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝚁𝚃𝙳 𝙻𝙾𝙺𝚄 𝙽𝙸𝙼𝙰𝙷✅*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Kᴇʀᴍ_ᴍᴅ-ᴠ1❁*
+> *♻️𝙹𝙾𝙸𝙽 𝚈𝙾𝚄 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝚁𝚃𝙳 𝙽𝙸𝙼𝙰-𝙼𝙳-1𝚅♻️*
 
 *https://whatsapp.com/channel/0029Vb4jnKF0Qeaozdvx2J3s*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Kᴇʀᴍ_ᴍᴅ-ᴠ1❁*
+> *♻️𝙹𝙾𝙸𝙽 𝚈𝙾𝚄 𝙼𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝚁𝚃𝙳 𝙽𝙸𝙼𝙰-𝙼𝙳 1𝚅♻️*
 
 *https://www.youtube.com/@RTD_FAMILY*
 
-*╭⊱✫🐲 KERM-MD-V1 🐲✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *DNS KING*
-*│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *RTD NIMAH*
-*│✫➠ - 🌐URL:* *https://github.com/Lokunima2001/DNS-KING*
+*╭⊱❯❯🐲 RTD NIMA-MD-V1 🐲✫⊱╮*
+*│❯❯➠ - 📂REPOSITORY NAME:* *DNS KING*
+*│❯❯➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
+*│❯❯➠ - 🛡️OWNER:* *RTD NIMAH*
+*│❯❯➠ - 🌐URL:* *https://github.com/Lokunima2001/DNS-KING*
 
 *♻️YOUR RTD NIMA-MD BOT ACTIVE NOW ENJOY♻️*\n\n*PREFIX: ${prefix}*
 
@@ -278,7 +278,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, KERM-MD-V1 STARTED ✅");
+res.send("HEY,RTD NIMA-MD-V1 STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {

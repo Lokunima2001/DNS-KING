@@ -5,7 +5,7 @@
 
 ----------
 
-<a><img src='https://i.imgur.com/Ip3ubrt.jpeg'/></a>
+<a><img src='https://files.catbox.moe/3hrstp.jpg'/></a>
 
 -------
 

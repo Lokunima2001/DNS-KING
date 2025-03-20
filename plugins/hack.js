@@ -26,7 +26,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         if (!isOwner) return reply("❌ Only the owner can use this command.");
         
         const steps = [
-            '💻 *KERM-MD-V1 HACK STARTING...* 💻',
+            '💻 *RTD NIMA-MD-V1 HACK STARTING...* 💻',
             '',
             '*Initializing hacking tools...* 🛠️',
             '*Connecting to remote servers...* 🌐',

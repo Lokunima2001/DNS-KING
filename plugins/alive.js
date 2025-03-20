@@ -61,8 +61,8 @@ Hi 🫵🏽 ${pushname}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321386877609@newsletter',
-                    newsletterName: '𝐊𝐄𝐑𝐌 𝐀𝐋𝐈𝐕𝐄',
+                    newsletterJid: '120393321386877609@newsletter',
+                    newsletterName: '𝗥𝗧𝗗 𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }
@@ -78,8 +78,8 @@ Hi 🫵🏽 ${pushname}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321386877609@newsletter',
-                    newsletterName: '𝐊𝐄𝐑𝐌 𝐀𝐋𝐈𝐕𝐄',
+                    newsletterJid: '120363421386877609@newsletter',
+                    newsletterName: '𝗥𝗧𝗗 𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }

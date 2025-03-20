@@ -1,7 +1,7 @@
 ---------
 
-### <br>  ❖ KERM MD V1 ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY KGTECH 🇨🇲`** 🔰
+### <br>  ❖ RTD NIMA MD V1 ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY NIMA🇱🇰`** 🔰
 
 ----------
 
@@ -10,7 +10,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`KERM+-+MD+-+V1+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`RTD+-+NIMA+-+MD+-+V1+WHATSAPP+BOT`" alt="">
 
 <br>
 
@@ -27,19 +27,19 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD-V1/count.svg" /><br>KERM-MD-V1</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD-V1/count.svg" /><br>RTD NIMAH-MD-V1</div>
 
 ------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![FORK KERM_MD-V4](https://img.shields.io/badge/FORK%20-KERM%20MD%20V1-white)](https://github.com/Kgtech-cmr/KERM-MD-V1/fork)
+[![FORK RTD NIMA MD-V4](https://img.shields.io/badge/FORK%20-KERM%20MD%20V1-white)](https://github.com/Kgtech-cmr/KERM-MD-V1/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+237xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+9477xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 ----------
 1. USE SESSION 1.
@@ -59,35 +59,35 @@
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME KERM࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME RTD NIMA MD࿐➺`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/+237656520674?text=*ʜɪɪ+ᴋᴇʀᴍ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴋᴇʀᴍ-ᴍᴅ-ᴠ1+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/94769091078?text=*@_Hi_RTD_NIMAH_BOT_DPLOY_ME_🚀🤖*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`✠ IF YOU WANT MORE ABOUT KERM MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+`✠ IF YOU WANT MORE ABOUT RTD NIMA MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
 
 ---------
 
-<a href="https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029Vb4jnKF0Qeaozdvx2J3s"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 -----------
 
-`✠ IF YOU WANT MORE ABOUT KERM MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+`✠ IF YOU WANT MORE ABOUT RTD NIMA MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
 
 ----------
 
-<a href="https://youtube.com/@KermHackTools-s9s?si=F1IIc1As0gu3ijqk"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://m.youtube.com/@RTD_FAMILY"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 --------------
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLOY KERM MD V1 BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY RTD NIMA MD V1 BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 ------------
  
@@ -153,7 +153,7 @@
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`✠ HOW TO DEPLOY KERM MD V1 ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+`✠ HOW TO DEPLOY RTD NIMA MD V1 ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
 -------------
 
@@ -164,5 +164,6 @@
 
 -------------
 
-Tʜᴀɴᴋ ꜰᴏʀ ᴜsᴇ Kᴇʀᴍ ᴍᴅ ᴠ1.
-Dᴏɴ’ᴛ Fᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ sᴛᴀʀ ⭐️ ᴀꜰᴛᴇʀ ꜰᴏʀᴋ
+THANKS RTD NIMA MD DIPLOY♻️.
+
+RTD MD WHATSAPP BOT FORK YOU♻️

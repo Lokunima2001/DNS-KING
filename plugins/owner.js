@@ -75,8 +75,8 @@ cmd({
   try {
     // Propriétaires' informations de contact
     const owners = [
-      { number: '+237656520674', name: '༒𝐋𝐎𝐑𝐃 𝐊𝐄𝐑𝐌༒', organization: 'UD TEAM' },
-      { number: '+237650564445', name: 'ᵏᵍᶠ┘𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐓𝐎𝐑', organization: 'UD TEAM' }
+      { number: '+94769091078', name: '𝗥𝗧𝗗 𝗡𝗜𝗠𝗔', organization: '𝗥𝗧𝗗 𝗧𝗘𝗔𝗠' },
+      { number: '+94769091078', name: '𝗗𝗡𝗦 𝗞𝗜𝗡𝗚', organization: '𝗥𝗧𝗗 𝗧𝗘𝗔𝗠' }
     ];
 
     let contacts = [];

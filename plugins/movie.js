@@ -38,7 +38,7 @@ cmd({
         }
 
         const movieInfo = `
-*🎬KERM-MD-V1 MOVIE SERCH🎬*
+*🎬NIMA-MD-V1 MOVIE SERCH🎬*
 
 *ᴛɪᴛʟᴇ:* ${data.Title}
 *ʏᴇᴀʀ:* ${data.Year}
@@ -54,14 +54,14 @@ cmd({
 *ᴀᴡᴀʀᴅꜱ:* ${data.Awards}
 *ɪᴍᴅʙ ʀᴀᴛɪɴɢ:* ${data.imdbRating}
 
-> POWERED BY KERM_MD-V4
+> POWERED BY LOKU NIMA 1V
 `;
 
         const imageUrl = data.Poster && data.Poster !== 'N/A' ? data.Poster : config.ALIVE_IMG;
 
         await conn.sendMessage(from, {
             image: { url: imageUrl },
-            caption: `${movieInfo}\n> CREATED BY KG TECH`
+            caption: `${movieInfo}\n> CREATED BY LOKU NIMA`
         }, { quoted: mek });
     } catch (e) {
         console.error(e);

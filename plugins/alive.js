@@ -16,7 +16,7 @@ const { cmd } = require("../command");
 const moment = require("moment");
 
 let botStartTime = Date.now(); // Enregistrement de l'heure de démarrage du bot
-const ALIVE_IMG = "https://files.catbox.moe/3hrstp.jpg"; // Assurez-vous que cette URL est valide
+const ALIVE_IMG = "https://files.catbox.moe/zqoycp.jpg"; // Assurez-vous que cette URL est valide
 
 cmd({
     pattern: "alive",
@@ -61,8 +61,8 @@ Hi 🫵🏽 ${pushname}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363414256474114@newsletter',
-                    newsletterName: '𝗥𝗧𝗗 𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterJid: '120363614256474114@newsletter',
+                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }
@@ -78,8 +78,8 @@ Hi 🫵🏽 ${pushname}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363414256474114@newsletter',
-                    newsletterName: '𝗥𝗧𝗗 𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterJid: '120363416256474114@newsletter',
+                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
                     serverMessageId: 143
                 }
             }

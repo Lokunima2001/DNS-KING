@@ -26,7 +26,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         if (!isOwner) return reply("❌ Only the owner can use this command.");
         
         const steps = [
-            '💻 *RTD NIMA-MD-V1 HACK STARTING...* 💻',
+            '💻 *NIMA-MD-V1 HACK STARTING...* 💻',
             '',
             '*Initializing hacking tools...* 🛠️',
             '*Connecting to remote servers...* 🌐',
@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             '⚠️ *Reminder:* Strong hacking is the only way to ensure security.',
             '',
-            ' *👨‍💻 YOUR DATA HACK SUCCESSFULLY 👩‍💻☣*'
+            ' *👨‍💻 YOUR DATA NIMA HACK SUCCESSFULLY 👩‍💻☣*'
         ];
 
         for (const line of steps) {

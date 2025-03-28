@@ -67,7 +67,7 @@ const config = require('../config');
 cmd({
   pattern: "owner",
   react: "👑", 
-  alias: ["kerm"],
+  alias: ["LOKU NIMA"],
   desc: "Get owner number",
   category: "main",
   filename: __filename
@@ -75,8 +75,8 @@ cmd({
   try {
     // Propriétaires' informations de contact
     const owners = [
-      { number: '+94769091078', name: '𝗥𝗧𝗗 𝗡𝗜𝗠𝗔', organization: '𝗥𝗧𝗗 𝗧𝗘𝗔𝗠' },
-      { number: '+94769091078', name: '𝗗𝗡𝗦 𝗞𝗜𝗡𝗚', organization: '𝗥𝗧𝗗 𝗧𝗘𝗔𝗠' }
+      { number: '+94769091078', name: '𝗡𝗜𝗠𝗔', organization: '𝗡𝗜𝗠𝗔 𝗧𝗘𝗔𝗠' },
+      { number: '+94769091078', name: '𝗗𝗡𝗦 𝗞𝗜𝗡𝗚', organization: '𝗡𝗜𝗠𝗔 𝗧𝗘𝗔𝗠' }
     ];
 
     let contacts = [];

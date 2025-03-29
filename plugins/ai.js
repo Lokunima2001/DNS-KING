@@ -59,7 +59,7 @@ cmd({
         }
 
         // Image AI à envoyer
-        const ALIVE_IMG = 'https://i.imgur.com/R4ebueM.jpeg'; // Remplacez par l'URL de votre image AI
+        const ALIVE_IMG = 'https://files.catbox.moe/zqoycp.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
         const formattedInfo = `🤖 *ChatGPT Response:*\n\n${gptResponse}`;
@@ -73,8 +73,8 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321386877609@newsletter',
-                    newsletterName: '𝐊𝐄𝐑𝐌 𝐀𝐈',
+                    newsletterJid: '120363331386877609@newsletter',
+                    newsletterName: '𝐍𝐈𝐌𝐀 𝐌𝐃 𝐀𝐈',
                     serverMessageId: 143
                 }
             }
@@ -134,7 +134,7 @@ cmd({
         }
 
         // AI image to attach
-        const AI_IMG = 'https://i.ibb.co/V09y0WJY/mrfrankofc.jpg'; // Replace with a valid image URL
+        const AI_IMG = 'https://files.catbox.moe/zqoycp.jpg'; // Replace with a valid image URL
 
         // Formatted response text
         const formattedInfo = `🤖 *Llama3 Response:*\n\n${llamaResponse}`;
@@ -148,8 +148,8 @@ cmd({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363321386877609@newsletter',
-                    newsletterName: '𝐊𝐄𝐑𝐌 𝐀𝐈',
+                    newsletterJid: '120363321366837609@newsletter',
+                    newsletterName: '𝐍𝐈𝐌𝐀 𝐌𝐃 𝐀𝐈',
                     serverMessageId: 143
                 }
             }
